@@ -1,0 +1,254 @@
+{
+  "dataset_rows": 636,
+  "class_counts": {
+    "Delivery": 224,
+    "Billing": 121,
+    "Customer Service": 105,
+    "Product Quality": 99,
+    "Technical Support": 87
+  },
+  "train_rows": 508,
+  "test_rows": 128,
+  "random_state": 42,
+  "selection_metric": "macro_f1",
+  "best_model": "Linear SVM",
+  "models": {
+    "Multinomial Naive Bayes": {
+      "accuracy": 0.8515625,
+      "macro_precision": 0.9193939393939395,
+      "macro_recall": 0.8175396825396826,
+      "macro_f1": 0.8529597452535983,
+      "per_class": {
+        "Billing": {
+          "precision": 0.8636363636363636,
+          "recall": 0.7916666666666666,
+          "f1-score": 0.8260869565217391,
+          "support": 24.0
+        },
+        "Technical Support": {
+          "precision": 1.0,
+          "recall": 0.6111111111111112,
+          "f1-score": 0.7586206896551724,
+          "support": 18.0
+        },
+        "Delivery": {
+          "precision": 0.7333333333333333,
+          "recall": 0.9777777777777777,
+          "f1-score": 0.8380952380952381,
+          "support": 45.0
+        },
+        "Product Quality": {
+          "precision": 1.0,
+          "recall": 0.85,
+          "f1-score": 0.918918918918919,
+          "support": 20.0
+        },
+        "Customer Service": {
+          "precision": 1.0,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.9230769230769231,
+          "support": 21.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          19,
+          0,
+          5,
+          0,
+          0
+        ],
+        [
+          2,
+          11,
+          5,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          44,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          17,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          18
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 0.921875,
+      "macro_precision": 0.94947209653092,
+      "macro_recall": 0.9042063492063491,
+      "macro_f1": 0.9218205128205128,
+      "per_class": {
+        "Billing": {
+          "precision": 0.8846153846153846,
+          "recall": 0.9583333333333334,
+          "f1-score": 0.92,
+          "support": 24.0
+        },
+        "Technical Support": {
+          "precision": 1.0,
+          "recall": 0.7777777777777778,
+          "f1-score": 0.875,
+          "support": 18.0
+        },
+        "Delivery": {
+          "precision": 0.8627450980392157,
+          "recall": 0.9777777777777777,
+          "f1-score": 0.9166666666666666,
+          "support": 45.0
+        },
+        "Product Quality": {
+          "precision": 1.0,
+          "recall": 0.95,
+          "f1-score": 0.9743589743589743,
+          "support": 20.0
+        },
+        "Customer Service": {
+          "precision": 1.0,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.9230769230769231,
+          "support": 21.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          23,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          14,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          44,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          19,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          18
+        ]
+      ]
+    },
+    "Linear SVM": {
+      "accuracy": 0.96875,
+      "macro_precision": 0.9733333333333334,
+      "macro_recall": 0.9622222222222223,
+      "macro_f1": 0.9656090314913843,
+      "per_class": {
+        "Billing": {
+          "precision": 0.8888888888888888,
+          "recall": 1.0,
+          "f1-score": 0.9411764705882353,
+          "support": 24.0
+        },
+        "Technical Support": {
+          "precision": 1.0,
+          "recall": 0.8333333333333334,
+          "f1-score": 0.9090909090909091,
+          "support": 18.0
+        },
+        "Delivery": {
+          "precision": 0.9777777777777777,
+          "recall": 0.9777777777777777,
+          "f1-score": 0.9777777777777777,
+          "support": 45.0
+        },
+        "Product Quality": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 20.0
+        },
+        "Customer Service": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 21.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          24,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          15,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          44,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          20,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21
+        ]
+      ]
+    }
+  },
+  "review_gate": {
+    "margin_threshold": 0.3,
+    "margin_definition": "highest LinearSVC decision score minus second-highest; not a probability",
+    "threshold_selection": "fixed conservative heuristic; not tuned on the held-out test set",
+    "held_out_rows_reviewed_by_margin": 6,
+    "held_out_review_rate_by_margin": 0.046875,
+    "held_out_category_errors": 4,
+    "held_out_errors_caught_by_margin": 2,
+    "held_out_automated_rows": 122,
+    "held_out_automated_accuracy": 0.9836065573770492,
+    "training_oof_margin_p10": 0.4332625898763185
+  }
+}

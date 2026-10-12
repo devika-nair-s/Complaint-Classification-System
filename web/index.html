@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f6f2">
+    <title>Complaint Classification | NLP Project</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Complaint Classification home">
+        <span class="brand-mark" aria-hidden="true">C</span>
+        <span>ClearRoute<span class="brand-dot">.</span></span>
+      </a>
+      <span class="project-tag"><span class="live-dot"></span> NLP MINI PROJECT</span>
+    </header>
+
+    <main id="top">
+      <section class="method-strip" aria-label="How the classifier works">
+        <p class="eyebrow">How it works</p>
+        <div class="method-strip-steps">
+          <span><b>01</b> Read the complaint</span><i aria-hidden="true">→</i>
+          <span><b>02</b> Predict a category</span><i aria-hidden="true">→</i>
+          <span><b>03</b> Route or request review</span>
+        </div>
+      </section>
+
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">A smarter first step for support</p>
+          <h1>Every complaint,<br><span>to the right team.</span></h1>
+          <p class="hero-description">Describe the issue and see how the classifier suggests a category and destination.</p>
+        </div>
+      </section>
+
+      <section class="demo-layout" aria-label="Try the complaint classifier">
+        <div class="panel classifier-panel">
+          <div class="panel-heading">
+            <div><p class="eyebrow">Try the classifier</p><h2>What went wrong?</h2></div>
+          </div>
+          <p class="panel-intro">Describe the issue in your own words. English complaints are classified. Devanagari text can be Marathi or Hindi, so confirm it is Marathi before using the Marathi model.</p>
+          <form id="complaint-form">
+            <label class="sr-only" for="complaint">Your complaint</label>
+            <div class="textarea-wrap">
+              <textarea id="complaint" name="complaint" maxlength="2000" placeholder="For example: I was charged twice for my order, and the extra payment is still pending…" required></textarea>
+              <span id="char-count" class="char-count">0 / 2,000</span>
+            </div>
+            <div id="marathi-confirm" class="language-confirm" hidden>
+              <label><input id="confirm-marathi" type="checkbox"> I confirm this complaint is Marathi, not Hindi.</label>
+              <p>We can detect Devanagari script, but cannot reliably distinguish Marathi from Hindi automatically.</p>
+            </div>
+            <div class="examples-row">
+              <span>TRY AN EXAMPLE</span>
+              <button type="button" class="example-chip" data-example="My card was billed twice for the same order, and the extra transaction is still pending.">Double charge</button>
+              <button type="button" class="example-chip" data-example="The courier left my package outside the building entrance instead of the secure mail room.">Delivery issue</button>
+              <button type="button" class="example-chip" data-example="I">Incomplete</button>
+            </div>
+            <button class="submit-button" type="submit"><span>Classify complaint</span><span class="button-arrow" aria-hidden="true">↗</span></button>
+          </form>
+          <div id="result" class="result-card" aria-live="polite" hidden></div>
+        </div>
+
+      </section>
+
+    </main>
+
+    <footer><span>ClearRoute <span class="brand-dot">.</span> Complaint Classification Project</span><span>Built as an educational NLP prototype</span></footer>
+  </body>
+</html>

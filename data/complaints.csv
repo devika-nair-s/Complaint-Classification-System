@@ -1,0 +1,501 @@
+complaint,category
+"I sent a message to customer service but I did not receive any help, please resolve this matter.",Customer Service
+"I found an extra charge, please check this.",Billing
+"I cannot reset my password, and I need technical assistance.",Technical Support
+"The delivery was marked as delivered but I never received it, can you provide an estimated delivery date.",Delivery
+"I sent a message to customer service but my request is still unresolved, please get back to me.",Customer Service
+"The product I received not working as expected, I am disappointed with the quality.",Product Quality
+"My shipment was marked as delivered but I never received it, this is taking longer than expected.",Delivery
+"The courier has not arrived, please contact the courier.",Delivery
+"I have not received is still showing as in transit, can you provide an estimated delivery date.",Delivery
+"The product not functioning properly, please look into this.",Product Quality
+"The item from my order showing visible damage, and I would like a replacement.",Product Quality
+"My shipment has not been delivered, can you tell me where it is.",Delivery
+"I have a problem with an unexpected transaction, please verify the transaction.",Billing
+"I received an extra charge, and I need an explanation.",Billing
+"I called your support team but my request is still unresolved, I need to speak to someone.",Customer Service
+"I received an incorrect charge on my account, please look into this.",Billing
+"I am unable to open the application, please help me fix this.",Technical Support
+"The delivery is still showing as in transit, I need help locating it.",Delivery
+"I have been waiting for support but the support agent was not helpful, I am unhappy with the support provided.",Customer Service
+"Every time I try to log into my account, because the application crashes.",Technical Support
+"I received a difference between the displayed and charged price, and I need an explanation.",Billing
+"The goods I received broken, please help me with a return.",Product Quality
+"I requested assistance but I have not received a response, I would appreciate a quick response.",Customer Service
+"My order has not moved according to the tracking status, and I need an update.",Delivery
+"I checked my statement and found an extra charge, please check this.",Billing
+"I contacted customer support but my complaint was ignored, I need this issue addressed.",Customer Service
+"The product appears to be broken, and I need this resolved.",Product Quality
+"I need help with a duplicate payment, I would like a refund if applicable.",Billing
+"I need help with a difference between the displayed and charged price, can you help me resolve it.",Billing
+"I am having trouble trying to load the login page, because something seems to be broken.",Technical Support
+"The parcel is taking too long to arrive, can you tell me where it is.",Delivery
+"I am having trouble trying to access the website, because something seems to be broken.",Technical Support
+"I am having trouble trying to log into my account, and I cannot continue.",Technical Support
+"I checked my statement and found an incorrect charge on my account, I need assistance with this.",Billing
+"I am still waiting for has been delayed, I need the delivery resolved.",Delivery
+"The product not working as expected, I expected better quality.",Product Quality
+"The system fails when I reset my password, and the website stops working.",Technical Support
+"The product not working as expected, please help me with a return.",Product Quality
+"I am unable to log into my account, after the recent update.",Technical Support
+"I am still waiting for is still showing as in transit, I need the delivery resolved.",Delivery
+"The product showing visible damage, please look into this.",Product Quality
+"The item delivered to me damaged, I need assistance with this product.",Product Quality
+"The item damaged, please look into this.",Product Quality
+"I have not received is taking too long to arrive, this is taking longer than expected.",Delivery
+"I called your support team but I have not received a response, I am unhappy with the support provided.",Customer Service
+"Every time I try to reset my password, because something seems to be broken.",Technical Support
+"I cannot submit the form, and the page keeps freezing.",Technical Support
+"I am unable to access the website, and I cannot continue.",Technical Support
+"Every time I try to open the application, after the recent update.",Technical Support
+"The delivery has been delayed, please investigate the delivery.",Delivery
+"The device poor quality, please help me with a return.",Product Quality
+"I sent a message to customer service but my request is still unresolved, please assign someone to my case.",Customer Service
+"I am concerned about an incorrect charge on my account, and I need an explanation.",Billing
+"The item delivered to me not matching the advertised specifications, and I would like a replacement.",Product Quality
+"I received a duplicate payment, and I would like this corrected.",Billing
+"The product I received different from the description, please arrange a replacement.",Product Quality
+"I am unable to complete the payment process, please help me fix this.",Technical Support
+"The goods I received showing visible damage, and I need this resolved.",Product Quality
+"My account shows a payment that I do not recognize, please look into this.",Billing
+"I am experiencing an issue with complete the payment process, because the system is not responding.",Technical Support
+"I asked customer care for help but the representative did not resolve my issue, I would appreciate a quick response.",Customer Service
+"I contacted the help desk but the representative did not resolve my issue, I am unhappy with the support provided.",Customer Service
+"The product purchased from your store showing visible damage, this is not acceptable.",Product Quality
+"The item from my order poor quality, I am disappointed with the quality.",Product Quality
+"My order has not arrived, I need help locating it.",Delivery
+"The item delivered to me faulty, I need assistance with this product.",Product Quality
+"The application will not upload a document, because the system is not responding.",Technical Support
+"I spoke with a representative but nobody has followed up, please follow up on my complaint.",Customer Service
+"My account shows an additional fee, please verify the transaction.",Billing
+"I called your support team but I did not receive any help, and I need someone to help me.",Customer Service
+"My account shows a difference between the displayed and charged price, I need assistance with this.",Billing
+"The product I received showing visible damage, I need assistance with this product.",Product Quality
+"I submitted a complaint but nobody has followed up, please get back to me.",Customer Service
+"The item not functioning properly, and I would like a replacement.",Product Quality
+"My purchase is still showing as in transit, please contact the courier.",Delivery
+"The product I received defective, please help me with a return.",Product Quality
+"I have a problem with a difference between the displayed and charged price, can you help me resolve it.",Billing
+"I contacted the help desk but my complaint was ignored, please follow up on my complaint.",Customer Service
+"The application will not reset my password, and it keeps showing an error.",Technical Support
+"I keep getting an error when I log into my account, after the recent update.",Technical Support
+"I have a problem with a payment that I do not recognize, I need assistance with this.",Billing
+"I sent a message to customer service but my complaint was ignored, I would like a response.",Customer Service
+"I asked customer care for help but the representative did not resolve my issue, please follow up on my complaint.",Customer Service
+"I keep getting an error when I load the login page, because something seems to be broken.",Technical Support
+"I have been waiting for support but nobody responded, I need this issue addressed.",Customer Service
+"I am unable to upload a document, and the website stops working.",Technical Support
+"I noticed an additional fee, can you help me resolve it.",Billing
+"My account shows the wrong amount on my invoice, please verify the transaction.",Billing
+"The device broken, and I need this resolved.",Product Quality
+"I am having trouble trying to access the website, and I cannot continue.",Technical Support
+"The website does not upload a document, because the application crashes.",Technical Support
+"Every time I try to use the application properly, and I need technical assistance.",Technical Support
+"I have been waiting for support but nobody responded, and I need someone to help me.",Customer Service
+"The delivery was delivered to the wrong address, please investigate the delivery.",Delivery
+"The product purchased from your store showing visible damage, I expected better quality.",Product Quality
+"I have a problem with an additional fee, and I would like this corrected.",Billing
+"The courier is still showing as in transit, I would like to know when it will arrive.",Delivery
+"The goods I received showing visible damage, please help me with a return.",Product Quality
+"I am still waiting for is still showing as in transit, can you provide an estimated delivery date.",Delivery
+"I contacted customer support but the representative did not resolve my issue, please follow up on my complaint.",Customer Service
+"The system fails when I load the login page, please help me fix this.",Technical Support
+"The delivery has not been delivered, please contact the courier.",Delivery
+"The website does not update my profile, and I need technical assistance.",Technical Support
+"Every time I try to load the login page, after the recent update.",Technical Support
+"I received an additional fee, I need assistance with this.",Billing
+"My order is still showing as in transit, can you provide an estimated delivery date.",Delivery
+"The parcel is still showing as in transit, I need help locating it.",Delivery
+"The goods I received not working as expected, please arrange a replacement.",Product Quality
+"I am having trouble trying to open the application, and the website stops working.",Technical Support
+"I asked customer care for help but nobody has followed up, please get back to me.",Customer Service
+"I am concerned about an extra charge, please verify the transaction.",Billing
+"Every time I try to log into my account, and I need technical assistance.",Technical Support
+"I am experiencing an issue with upload a document, after the recent update.",Technical Support
+"The item not functioning properly, and I need this resolved.",Product Quality
+"I contacted the help desk but I did not receive any help, I would appreciate a quick response.",Customer Service
+"I checked my statement and found a duplicate payment, this does not seem correct.",Billing
+"The parcel has not arrived, and I need an update.",Delivery
+"I am having trouble trying to reset my password, and the website stops working.",Technical Support
+"I received an incorrect charge on my account, and I need an explanation.",Billing
+"I contacted the help desk but I did not receive any help, please resolve this matter.",Customer Service
+"The product I received showing visible damage, please help me with a return.",Product Quality
+"I received an extra charge, can you help me resolve it.",Billing
+"I keep getting an error when I access the website, because the system is not responding.",Technical Support
+"I found a payment that was deducted incorrectly, and I need an explanation.",Billing
+"The delivery is taking too long to arrive, please investigate the delivery.",Delivery
+"I am still waiting for appears to be missing, I need help locating it.",Delivery
+"The application will not access the website, because the application crashes.",Technical Support
+"The product I received showing visible damage, I expected better quality.",Product Quality
+"I have not received is taking too long to arrive, and I need an update.",Delivery
+"I contacted customer support but I did not receive any help, and I need someone to help me.",Customer Service
+"I am facing a problem while trying to log into my account, after the recent update.",Technical Support
+"I received an unexpected transaction, I need this issue resolved.",Billing
+"I am facing a problem while trying to load the login page, and the website stops working.",Technical Support
+"I have been waiting for support but the representative did not resolve my issue, I would appreciate a quick response.",Customer Service
+"The parcel has not moved according to the tracking status, and I need an update.",Delivery
+"My purchase has not arrived, can you tell me where it is.",Delivery
+"I spoke with a representative but my complaint was ignored, I would appreciate a quick response.",Customer Service
+"The item delivered to me not matching the advertised specifications, and I need this resolved.",Product Quality
+"The item from my order not working as expected, this is not acceptable.",Product Quality
+"The courier has been delayed, please investigate the delivery.",Delivery
+"The product purchased from your store not working as expected, please look into this.",Product Quality
+"The goods I received defective, please arrange a replacement.",Product Quality
+"There appears to be an unexpected transaction, I need this issue resolved.",Billing
+"The courier is taking too long to arrive, can you tell me where it is.",Delivery
+"My purchase is still showing as in transit, I would like to know when it will arrive.",Delivery
+"I requested assistance but nobody has followed up, please assign someone to my case.",Customer Service
+"I cannot open the application, and I need technical assistance.",Technical Support
+"I noticed a duplicate payment, can you help me resolve it.",Billing
+"My account shows an incorrect billing amount, please verify the transaction.",Billing
+"The product purchased from your store not matching the advertised specifications, I would like a refund.",Product Quality
+"The product appears to be poor quality, please arrange a replacement.",Product Quality
+"I need help with an extra charge, I need assistance with this.",Billing
+"I am facing a problem while trying to complete the payment process, after the recent update.",Technical Support
+"I contacted the help desk but nobody responded, I would like a response.",Customer Service
+"The item poor quality, this is not acceptable.",Product Quality
+"The product purchased from your store defective, please help me with a return.",Product Quality
+"The parcel appears to be missing, I need the delivery resolved.",Delivery
+"The courier appears to be missing, I would like to know when it will arrive.",Delivery
+"The delivery appears to be missing, please contact the courier.",Delivery
+"I am still waiting for has passed the expected delivery date, can you provide an estimated delivery date.",Delivery
+"I checked my statement and found the wrong amount on my invoice, can you help me resolve it.",Billing
+"The item from my order defective, and I would like a replacement.",Product Quality
+"I sent a message to customer service but I have not received a response, I need this issue addressed.",Customer Service
+"I requested assistance but the representative did not resolve my issue, please resolve this matter.",Customer Service
+"I have not received is taking too long to arrive, please contact the courier.",Delivery
+"The item faulty, please help me with a return.",Product Quality
+"The item from my order different from the description, please look into this.",Product Quality
+"The item I purchased is not functioning properly, I would like a refund.",Product Quality
+"The product I received different from the description, and I need this resolved.",Product Quality
+"I asked customer care for help but my complaint was ignored, please follow up on my complaint.",Customer Service
+"The parcel was marked as delivered but I never received it, I need the delivery resolved.",Delivery
+"I have been waiting for support but the representative did not resolve my issue, please follow up on my complaint.",Customer Service
+"The delivery has not arrived, can you provide an estimated delivery date.",Delivery
+"I have been waiting for support but customer care has not contacted me, please assign someone to my case.",Customer Service
+"I have not received has passed the expected delivery date, this is taking longer than expected.",Delivery
+"The courier has not been delivered, please check the status.",Delivery
+"I contacted the help desk but I did not receive any help, please assign someone to my case.",Customer Service
+"I contacted customer support but I am still waiting for assistance, please resolve this matter.",Customer Service
+"Every time I try to use the application properly, because the application crashes.",Technical Support
+"I was surprised to see a difference between the displayed and charged price, please verify the transaction.",Billing
+"I found an additional fee, and I need an explanation.",Billing
+"I am having trouble trying to access the website, and the page keeps freezing.",Technical Support
+"I spoke with a representative but my complaint was ignored, please get back to me.",Customer Service
+"I submitted a complaint but customer care has not contacted me, I need this issue addressed.",Customer Service
+"I am having trouble trying to complete the payment process, because the system is not responding.",Technical Support
+"The application will not load the login page, and I cannot continue.",Technical Support
+"I called your support team but I did not receive any help, I need this issue addressed.",Customer Service
+"My purchase has not arrived, can you provide an estimated delivery date.",Delivery
+"I contacted customer support but nobody responded, I would appreciate a quick response.",Customer Service
+"I am facing a problem while trying to use the application properly, please help me fix this.",Technical Support
+"The device faulty, please help me with a return.",Product Quality
+"The device showing visible damage, I expected better quality.",Product Quality
+"The website does not complete the payment process, and I need technical assistance.",Technical Support
+"There appears to be the wrong amount on my invoice, please verify the transaction.",Billing
+"I have been waiting for support but my request is still unresolved, I am unhappy with the support provided.",Customer Service
+"I have a problem with an additional fee, please look into this.",Billing
+"The product I received broken, I need assistance with this product.",Product Quality
+"I am unable to update my profile, after the recent update.",Technical Support
+"I received a payment that I do not recognize, and I need an explanation.",Billing
+"I was surprised to see an incorrect billing amount, please look into this.",Billing
+"I am still waiting for has not been delivered, please investigate the delivery.",Delivery
+"I spoke with a representative but my complaint was ignored, please assign someone to my case.",Customer Service
+"Every time I try to complete the payment process, after the recent update.",Technical Support
+"The goods I received showing visible damage, I would like a refund.",Product Quality
+"The courier is still showing as in transit, can you provide an estimated delivery date.",Delivery
+"I noticed the wrong amount on my invoice, please verify the transaction.",Billing
+"The tracking information for my order has not been delivered, please check the status.",Delivery
+"The package has not been delivered, I would like to know when it will arrive.",Delivery
+"The item faulty, I need assistance with this product.",Product Quality
+"I keep getting an error when I open the application, and it keeps showing an error.",Technical Support
+"The package is still showing as in transit, I need help locating it.",Delivery
+"I asked customer care for help but my complaint was ignored, please resolve this matter.",Customer Service
+"I noticed a duplicate payment, please check this.",Billing
+"The package has passed the expected delivery date, please investigate the delivery.",Delivery
+"The tracking information for my order was delivered to the wrong address, can you provide an estimated delivery date.",Delivery
+"The item delivered to me not matching the advertised specifications, please look into this.",Product Quality
+"I have not received has not been delivered, please contact the courier.",Delivery
+"The product damaged, please look into this.",Product Quality
+"I called your support team but my request is still unresolved, please resolve this matter.",Customer Service
+"The product purchased from your store damaged, please look into this.",Product Quality
+"The application will not access the website, after the recent update.",Technical Support
+"I submitted a complaint but the support agent was not helpful, I would like a response.",Customer Service
+"I am experiencing an issue with reset my password, because the application crashes.",Technical Support
+"I received an extra charge, please check this.",Billing
+"I have been waiting for support but my request is still unresolved, please follow up on my complaint.",Customer Service
+"My purchase was delivered to the wrong address, please contact the courier.",Delivery
+"I have been trying to reach support but I have not received a response, please assign someone to my case.",Customer Service
+"Every time I try to submit the form, and the website stops working.",Technical Support
+"I am still waiting for has not moved according to the tracking status, I would like to know when it will arrive.",Delivery
+"The item I purchased is poor quality, please arrange a replacement.",Product Quality
+"Every time I try to update my profile, please help me fix this.",Technical Support
+"I submitted a complaint but my request is still unresolved, I need this issue addressed.",Customer Service
+"The product purchased from your store faulty, I am disappointed with the quality.",Product Quality
+"The product purchased from your store not working as expected, I am disappointed with the quality.",Product Quality
+"I found an additional fee, please check this.",Billing
+"I keep getting an error when I load the login page, and the website stops working.",Technical Support
+"The delivery is still showing as in transit, please investigate the delivery.",Delivery
+"There appears to be a payment that I do not recognize, and I need an explanation.",Billing
+"The product I received not functioning properly, and I would like a replacement.",Product Quality
+"I was surprised to see an incorrect charge on my account, I need this issue resolved.",Billing
+"There appears to be a payment that I do not recognize, I need this issue resolved.",Billing
+"The courier is taking too long to arrive, I need the delivery resolved.",Delivery
+"I need help with an incorrect billing amount, and I need an explanation.",Billing
+"I am having trouble trying to use the application properly, and I need technical assistance.",Technical Support
+"The item broken, please help me with a return.",Product Quality
+"I am facing a problem while trying to access the website, and it keeps showing an error.",Technical Support
+"The product appears to be not matching the advertised specifications, this is not acceptable.",Product Quality
+"The item showing visible damage, please look into this.",Product Quality
+"The system fails when I log into my account, because the system is not responding.",Technical Support
+"I contacted the help desk but customer care has not contacted me, please get back to me.",Customer Service
+"I cannot reset my password, and I cannot continue.",Technical Support
+"There appears to be the wrong amount on my invoice, I need this issue resolved.",Billing
+"I contacted customer support but I have not received a response, I am unhappy with the support provided.",Customer Service
+"I received an incorrect billing amount, I would like a refund if applicable.",Billing
+"The parcel has not arrived, please check the status.",Delivery
+"The website does not open the application, because something seems to be broken.",Technical Support
+"My purchase is still showing as in transit, please check the status.",Delivery
+"I contacted the help desk but my complaint was ignored, I need this issue addressed.",Customer Service
+"The product not working as expected, and I need this resolved.",Product Quality
+"I called your support team but my complaint was ignored, please get back to me.",Customer Service
+"The item from my order defective, and I need this resolved.",Product Quality
+"I requested assistance but I am still waiting for assistance, I am unhappy with the support provided.",Customer Service
+"The website does not use the application properly, and I need technical assistance.",Technical Support
+"I was surprised to see an additional fee, I need assistance with this.",Billing
+"My shipment was marked as delivered but I never received it, please investigate the delivery.",Delivery
+"I have been waiting for support but nobody has followed up, I would appreciate a quick response.",Customer Service
+"There appears to be a difference between the displayed and charged price, I need this issue resolved.",Billing
+"I am experiencing an issue with load the login page, and the website stops working.",Technical Support
+"I have been trying to reach support but customer care has not contacted me, please resolve this matter.",Customer Service
+"I requested assistance but nobody has followed up, I am unhappy with the support provided.",Customer Service
+"I found a difference between the displayed and charged price, I would like a refund if applicable.",Billing
+"The parcel is taking too long to arrive, can you provide an estimated delivery date.",Delivery
+"The tracking information for my order is still showing as in transit, can you tell me where it is.",Delivery
+"I am facing a problem while trying to load the login page, and I need technical assistance.",Technical Support
+"I received the wrong amount on my invoice, and I need an explanation.",Billing
+"My shipment is taking too long to arrive, and I need an update.",Delivery
+"I am unable to load the login page, and I cannot continue.",Technical Support
+"There appears to be an unexpected transaction, this does not seem correct.",Billing
+"I cannot update my profile, and the website stops working.",Technical Support
+"The tracking information for my order appears to be missing, can you provide an estimated delivery date.",Delivery
+"I found a difference between the displayed and charged price, and I need an explanation.",Billing
+"The courier has been delayed, can you provide an estimated delivery date.",Delivery
+"The tracking information for my order has not been delivered, please contact the courier.",Delivery
+"The package has not been delivered, please check the status.",Delivery
+"I noticed an extra charge, I need assistance with this.",Billing
+"The package was marked as delivered but I never received it, I need help locating it.",Delivery
+"The item delivered to me different from the description, this is not acceptable.",Product Quality
+"The item delivered to me not functioning properly, please look into this.",Product Quality
+"My account shows an extra charge, please verify the transaction.",Billing
+"I received the wrong amount on my invoice, I would like a refund if applicable.",Billing
+"I am facing a problem while trying to submit the form, because the application crashes.",Technical Support
+"The item delivered to me damaged, I would like a refund.",Product Quality
+"The website does not load the login page, and the page keeps freezing.",Technical Support
+"I am concerned about a payment that was deducted incorrectly, this does not seem correct.",Billing
+"I contacted the help desk but customer care has not contacted me, I am unhappy with the support provided.",Customer Service
+"The device not functioning properly, I am disappointed with the quality.",Product Quality
+"I have not received is taking too long to arrive, please check the status.",Delivery
+"I called your support team but nobody has followed up, please resolve this matter.",Customer Service
+"The application will not access the website, and I need technical assistance.",Technical Support
+"Every time I try to complete the payment process, and the website stops working.",Technical Support
+"I called your support team but nobody has followed up, I am unhappy with the support provided.",Customer Service
+"I noticed a duplicate payment, and I would like this corrected.",Billing
+"I received a duplicate payment, I would like a refund if applicable.",Billing
+"The goods I received not matching the advertised specifications, I would like a refund.",Product Quality
+"I asked customer care for help but I am still waiting for assistance, I am unhappy with the support provided.",Customer Service
+"There appears to be an extra charge, and I need an explanation.",Billing
+"My shipment has not arrived, please investigate the delivery.",Delivery
+"I keep getting an error when I load the login page, because the system is not responding.",Technical Support
+"The product poor quality, please look into this.",Product Quality
+"I spoke with a representative but I am still waiting for assistance, please follow up on my complaint.",Customer Service
+"I have a problem with a difference between the displayed and charged price, and I would like this corrected.",Billing
+"I requested assistance but my request is still unresolved, I need to speak to someone.",Customer Service
+"I was surprised to see an extra charge, please look into this.",Billing
+"I am experiencing an issue with log into my account, because the system is not responding.",Technical Support
+"I need help with an extra charge, this does not seem correct.",Billing
+"Every time I try to access the website, and the website stops working.",Technical Support
+"The product I received poor quality, I expected better quality.",Product Quality
+"I submitted a complaint but customer care has not contacted me, I am unhappy with the support provided.",Customer Service
+"I contacted the help desk but my complaint was ignored, and I need someone to help me.",Customer Service
+"Every time I try to complete the payment process, because the application crashes.",Technical Support
+"I am unable to submit the form, because the application crashes.",Technical Support
+"The item I purchased is different from the description, and I need this resolved.",Product Quality
+"My purchase was marked as delivered but I never received it, I need help locating it.",Delivery
+"I was surprised to see an extra charge, and I would like this corrected.",Billing
+"I am still waiting for has passed the expected delivery date, please check the status.",Delivery
+"I checked my statement and found a payment that I do not recognize, I need assistance with this.",Billing
+"The system fails when I submit the form, and the page keeps freezing.",Technical Support
+"The item delivered to me damaged, this is not acceptable.",Product Quality
+"I am having trouble trying to submit the form, and I need technical assistance.",Technical Support
+"I am concerned about an unexpected transaction, can you help me resolve it.",Billing
+"The courier has been delayed, please contact the courier.",Delivery
+"I noticed an additional fee, and I would like this corrected.",Billing
+"The tracking information for my order appears to be missing, please contact the courier.",Delivery
+"I have been waiting for support but my complaint was ignored, and I need someone to help me.",Customer Service
+"The application will not update my profile, please help me fix this.",Technical Support
+"I have been waiting for support but I am still waiting for assistance, please resolve this matter.",Customer Service
+"I received a payment that was deducted incorrectly, please look into this.",Billing
+"The item I purchased is not functioning properly, I need assistance with this product.",Product Quality
+"I am concerned about an unexpected transaction, this does not seem correct.",Billing
+"The courier appears to be missing, please contact the courier.",Delivery
+"I requested assistance but my complaint was ignored, please get back to me.",Customer Service
+"The delivery has been delayed, I need the delivery resolved.",Delivery
+"I sent a message to customer service but the support agent was not helpful, please resolve this matter.",Customer Service
+"I have not received is still showing as in transit, and I need an update.",Delivery
+"The item from my order different from the description, I am disappointed with the quality.",Product Quality
+"I requested assistance but nobody responded, I would like a response.",Customer Service
+"I am unable to load the login page, because the application crashes.",Technical Support
+"I spoke with a representative but the support agent was not helpful, I need this issue addressed.",Customer Service
+"I spoke with a representative but my request is still unresolved, I am unhappy with the support provided.",Customer Service
+"The application will not submit the form, after the recent update.",Technical Support
+"There appears to be an incorrect billing amount, I need this issue resolved.",Billing
+"The package was marked as delivered but I never received it, and I need an update.",Delivery
+"My purchase was marked as delivered but I never received it, this is taking longer than expected.",Delivery
+"I have not received has passed the expected delivery date, and I need an update.",Delivery
+"The website does not update my profile, and the website stops working.",Technical Support
+"I asked customer care for help but nobody responded, I need to speak to someone.",Customer Service
+"I am still waiting for was delivered to the wrong address, can you provide an estimated delivery date.",Delivery
+"I am still waiting for is taking too long to arrive, I need the delivery resolved.",Delivery
+"The parcel was marked as delivered but I never received it, I need help locating it.",Delivery
+"I submitted a complaint but my complaint was ignored, I would appreciate a quick response.",Customer Service
+"I am unable to upload a document, because something seems to be broken.",Technical Support
+"I noticed an unexpected transaction, I would like a refund if applicable.",Billing
+"I have not received is taking too long to arrive, can you provide an estimated delivery date.",Delivery
+"I have been trying to reach support but I did not receive any help, I am unhappy with the support provided.",Customer Service
+"Every time I try to reset my password, because the application crashes.",Technical Support
+"I have not received has passed the expected delivery date, I would like to know when it will arrive.",Delivery
+"I cannot update my profile, please help me fix this.",Technical Support
+"The package has not moved according to the tracking status, can you tell me where it is.",Delivery
+"I submitted a complaint but my request is still unresolved, please get back to me.",Customer Service
+"I asked customer care for help but I have not received a response, I need to speak to someone.",Customer Service
+"The package is still showing as in transit, can you provide an estimated delivery date.",Delivery
+"I am unable to reset my password, after the recent update.",Technical Support
+"The product purchased from your store broken, and I need this resolved.",Product Quality
+"The product purchased from your store different from the description, this is not acceptable.",Product Quality
+"I submitted a complaint but my request is still unresolved, I am unhappy with the support provided.",Customer Service
+"My purchase is taking too long to arrive, can you tell me where it is.",Delivery
+"I received an unexpected transaction, please look into this.",Billing
+"I contacted the help desk but my request is still unresolved, please follow up on my complaint.",Customer Service
+"The item from my order defective, I expected better quality.",Product Quality
+"I am concerned about an extra charge, and I need an explanation.",Billing
+"The item delivered to me showing visible damage, please look into this.",Product Quality
+"The product I received defective, I expected better quality.",Product Quality
+"I requested assistance but nobody has followed up, please get back to me.",Customer Service
+"I need help with an incorrect billing amount, please check this.",Billing
+"I need help with a duplicate payment, please check this.",Billing
+"I called your support team but the support agent was not helpful, please get back to me.",Customer Service
+"The product purchased from your store not matching the advertised specifications, this is not acceptable.",Product Quality
+"I found a difference between the displayed and charged price, I need assistance with this.",Billing
+"The item from my order damaged, I need assistance with this product.",Product Quality
+"The application will not update my profile, and the website stops working.",Technical Support
+"The product I received not functioning properly, I need assistance with this product.",Product Quality
+"My account shows a payment that was deducted incorrectly, I need assistance with this.",Billing
+"I requested assistance but I did not receive any help, please get back to me.",Customer Service
+"I have been trying to reach support but I am still waiting for assistance, and I need someone to help me.",Customer Service
+"The package appears to be missing, I need the delivery resolved.",Delivery
+"The product I received poor quality, I am disappointed with the quality.",Product Quality
+"My order has not moved according to the tracking status, please contact the courier.",Delivery
+"I have a problem with an incorrect billing amount, please verify the transaction.",Billing
+"I am facing a problem while trying to open the application, and I cannot continue.",Technical Support
+"I have a problem with an extra charge, I need assistance with this.",Billing
+"I checked my statement and found the wrong amount on my invoice, please check this.",Billing
+"I found an incorrect charge on my account, this does not seem correct.",Billing
+"I am experiencing an issue with open the application, because something seems to be broken.",Technical Support
+"I found an additional fee, this does not seem correct.",Billing
+"The tracking information for my order has not moved according to the tracking status, I would like to know when it will arrive.",Delivery
+"The product I received not matching the advertised specifications, please arrange a replacement.",Product Quality
+"I am experiencing an issue with complete the payment process, because something seems to be broken.",Technical Support
+"The system fails when I upload a document, after the recent update.",Technical Support
+"There appears to be a payment that was deducted incorrectly, I would like a refund if applicable.",Billing
+"I spoke with a representative but the support agent was not helpful, I need to speak to someone.",Customer Service
+"I requested assistance but I am still waiting for assistance, and I need someone to help me.",Customer Service
+"I found a difference between the displayed and charged price, please look into this.",Billing
+"The application will not submit the form, because the application crashes.",Technical Support
+"I am still waiting for has not arrived, I need help locating it.",Delivery
+"I have not received is taking too long to arrive, I need help locating it.",Delivery
+"I contacted the help desk but I did not receive any help, I am unhappy with the support provided.",Customer Service
+"I sent a message to customer service but I am still waiting for assistance, please follow up on my complaint.",Customer Service
+"I received a difference between the displayed and charged price, and I would like this corrected.",Billing
+"The package has not been delivered, I need help locating it.",Delivery
+"The product purchased from your store not matching the advertised specifications, please look into this.",Product Quality
+"The item from my order different from the description, I would like a refund.",Product Quality
+"The product broken, I expected better quality.",Product Quality
+"The item I purchased is not functioning properly, and I need this resolved.",Product Quality
+"I am concerned about an extra charge, I need this issue resolved.",Billing
+"I spoke with a representative but nobody has followed up, I need this issue addressed.",Customer Service
+"I spoke with a representative but the support agent was not helpful, please get back to me.",Customer Service
+"I called your support team but nobody has followed up, please follow up on my complaint.",Customer Service
+"The goods I received broken, and I need this resolved.",Product Quality
+"I cannot update my profile, and I cannot continue.",Technical Support
+"My order has not moved according to the tracking status, can you tell me where it is.",Delivery
+"I submitted a complaint but the support agent was not helpful, I need to speak to someone.",Customer Service
+"I spoke with a representative but customer care has not contacted me, please get back to me.",Customer Service
+"I submitted a complaint but the representative did not resolve my issue, please follow up on my complaint.",Customer Service
+"The product appears to be not functioning properly, and I need this resolved.",Product Quality
+"I am concerned about an additional fee, and I need an explanation.",Billing
+"My order has passed the expected delivery date, please check the status.",Delivery
+"I contacted customer support but nobody responded, I need to speak to someone.",Customer Service
+"The item from my order damaged, please arrange a replacement.",Product Quality
+"The item delivered to me damaged, and I would like a replacement.",Product Quality
+"The website does not load the login page, and I cannot continue.",Technical Support
+"The application will not access the website, and it keeps showing an error.",Technical Support
+"There appears to be the wrong amount on my invoice, and I need an explanation.",Billing
+"The product I received not working as expected, this is not acceptable.",Product Quality
+"The courier has not arrived, this is taking longer than expected.",Delivery
+"I received a payment that I do not recognize, and I would like this corrected.",Billing
+"I cannot update my profile, because the application crashes.",Technical Support
+"My account shows an additional fee, and I need an explanation.",Billing
+"The product appears to be not functioning properly, I need assistance with this product.",Product Quality
+"The product damaged, I would like a refund.",Product Quality
+"I called your support team but the support agent was not helpful, and I need someone to help me.",Customer Service
+"The item I purchased is not working as expected, please help me with a return.",Product Quality
+"I cannot access the website, and I need technical assistance.",Technical Support
+"I am having trouble trying to use the application properly, please help me fix this.",Technical Support
+"Every time I try to upload a document, and I cannot continue.",Technical Support
+"I have been waiting for support but customer care has not contacted me, I need this issue addressed.",Customer Service
+"The tracking information for my order has passed the expected delivery date, please contact the courier.",Delivery
+"My account shows a difference between the displayed and charged price, and I would like this corrected.",Billing
+"I am facing a problem while trying to upload a document, and I cannot continue.",Technical Support
+"I have a problem with an incorrect charge on my account, I need assistance with this.",Billing
+"I am unable to open the application, and I cannot continue.",Technical Support
+"The device not functioning properly, and I need this resolved.",Product Quality
+"The product appears to be different from the description, I expected better quality.",Product Quality
+"I asked customer care for help but nobody responded, I am unhappy with the support provided.",Customer Service
+"I noticed a payment that I do not recognize, and I need an explanation.",Billing
+"The item broken, I am disappointed with the quality.",Product Quality
+"The item I purchased is faulty, please arrange a replacement.",Product Quality
+"I am having trouble trying to use the application properly, and I cannot continue.",Technical Support
+"The device faulty, please arrange a replacement.",Product Quality
+"The tracking information for my order has passed the expected delivery date, please investigate the delivery.",Delivery
+"I am unable to use the application properly, and the website stops working.",Technical Support
+"I am facing a problem while trying to submit the form, and I cannot continue.",Technical Support
+"I asked customer care for help but nobody has followed up, please follow up on my complaint.",Customer Service
+"I am unable to update my profile, please help me fix this.",Technical Support
+"The application will not complete the payment process, and I cannot continue.",Technical Support
+"I need help with the wrong amount on my invoice, I need assistance with this.",Billing
+"The item from my order poor quality, I would like a refund.",Product Quality
+"The courier has passed the expected delivery date, please investigate the delivery.",Delivery
+"My shipment is still showing as in transit, can you provide an estimated delivery date.",Delivery
+"I contacted the help desk but I did not receive any help, please get back to me.",Customer Service
+"The package has been delayed, and I need an update.",Delivery
+"The device faulty, I expected better quality.",Product Quality
+"The website does not update my profile, because something seems to be broken.",Technical Support
+"I was surprised to see an additional fee, and I would like this corrected.",Billing
+"I checked my statement and found an incorrect charge on my account, and I would like this corrected.",Billing
+"The item I purchased is not matching the advertised specifications, please arrange a replacement.",Product Quality
+"The delivery has passed the expected delivery date, please investigate the delivery.",Delivery
+"I noticed a payment that was deducted incorrectly, please look into this.",Billing
+"The item from my order different from the description, I need assistance with this product.",Product Quality
+"I am having trouble trying to reset my password, because the application crashes.",Technical Support
+"I sent a message to customer service but I did not receive any help, I am unhappy with the support provided.",Customer Service
+"I called your support team but customer care has not contacted me, please assign someone to my case.",Customer Service
+"I contacted customer support but the support agent was not helpful, and I need someone to help me.",Customer Service
+"I found a duplicate payment, I need this issue resolved.",Billing
+"My order has been delayed, please contact the courier.",Delivery
+"I noticed an extra charge, and I need an explanation.",Billing
+"I contacted the help desk but I did not receive any help, I need to speak to someone.",Customer Service
+"I need help with an unexpected transaction, and I would like this corrected.",Billing
+"The courier has passed the expected delivery date, can you tell me where it is.",Delivery
+"The courier has not moved according to the tracking status, this is taking longer than expected.",Delivery
+"The item showing visible damage, please arrange a replacement.",Product Quality
